@@ -22,7 +22,7 @@
 - 📫 How to reach me: **gpiard27@gmail.com**
 - 📄 Know about my experiences: [https://piardguillaume.netlify.app/about](https://piardguillaume.netlify.app/about)
 
-<h2 align="center">🎧 Cannot code without the music on! 🎧</h2>
+<h2 align="center">🎧 Music is the fuel that powers my coding! 🎧</h2>
 <div align="center"> 
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mugi68wp18m0knxwaf182sdk5">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mugi68wp18m0knxwaf182sdk5" alt="Data Card for Spotify">
