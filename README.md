@@ -14,6 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=will6855&label=Profile%20views&color=0e75b6&style=flat" alt="will6855" /> 
 </div>
 
+<br>
+
 <!-- [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=will6855)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 - 👨‍💻 All of my informations are available at: [https://piardguillaume.netlify.app/](https://piardguillaume.netlify.app/)
