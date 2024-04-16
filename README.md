@@ -20,8 +20,5 @@
 
 ## Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=synthwave&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=synthwave&locale=en&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=synthwave&locale=en) ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=synthwave&locale=en)
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark)
