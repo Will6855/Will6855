@@ -1,15 +1,18 @@
-# Hi 👋, I'm Will (Guillaume, if you're french ^^)
+<h1 align="center">Hi 👋, I'm Will (Guillaume, if you're french ^^)</h1>
+<h3 align="center">✨ A passionate developer from France ✨</h3>
 
-<a href="https://github.com/will6855" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/piard-guillaume" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<p align="center"> 
+  <a href="https://github.com/will6855" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/piard-guillaume" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</p>
 
-## Just a student for now
-
-![Profile Views](https://komarev.com/ghpvc/?username=will6855&label=Profile%20views&color=0e75b6&style=plastic)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=will6855&label=Profile%20views&color=0e75b6&style=flat" alt="will6855" /> 
+</p>
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=will6855)](https://github.com/ryo-ma/github-profile-trophy)
 
