@@ -11,8 +11,9 @@
 - 📄 Know about my experiences: [https://piardguillaume.netlify.app/about](https://piardguillaume.netlify.app/about)
 
 ### Cannot code without the music on!
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mugi68wp18m0knxwaf182sdk5&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mugi68wp18m0knxwaf182sdk5">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mugi68wp18m0knxwaf182sdk5" alt="Data Card for Spotify">
+</a>
 
 ## Languages and Tools:
 
