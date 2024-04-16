@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Will (Guillaume, if you're french ^^)</h1>
+<h1 align="center">Hi 👋, I'm Will
 <h3 align="center">✨ A passionate developer from France ✨</h3>
 
 <div align="center"> 
