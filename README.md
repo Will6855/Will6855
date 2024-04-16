@@ -1,4 +1,4 @@
-# Hi 👋, I'm Will
+# Hi 👋, I'm Will (Guillaume, if you're french ^^)
 
 ## Just a student for now
 
