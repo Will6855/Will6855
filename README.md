@@ -18,9 +18,9 @@
 
 <!-- [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=will6855)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-- 👨‍💻 All of my informations are available at: [https://piardguillaume.netlify.app/](https://piardguillaume.netlify.app/)
+- 👨‍💻 All of my informations are available at: [https://guillaume-piard.fr/](https://guillaume-piard.fr/)
 - 📫 How to reach me: **gpiard27@gmail.com**
-- 📄 Know about my experiences: [https://piardguillaume.netlify.app/about](https://piardguillaume.netlify.app/about)
+- 📄 Know about my experiences: [https://guillaume-piard.fr/about](https://guillaume-piard.fr/about)
 
 <h2 align="center">🎧 Music is the fuel that powers my coding! 🎧</h2>
 <div align="center"> 
