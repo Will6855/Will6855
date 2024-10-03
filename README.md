@@ -44,7 +44,7 @@
 
 <h2 align="center">Stats: </h2>
 <div align="center"> 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=dark&locale=en&layout=compact" /> 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=dark&locale=en" /> 
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark" /> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=dark&locale=en&layout=compact" /> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=dark&locale=en" /> 
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark" /> 
 </div>
