@@ -21,7 +21,7 @@
 <h2 align="center">🎧 Music is the fuel that powers my coding! 🎧</h2>
 <div align="center"> 
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mugi68wp18m0knxwaf182sdk5">
-    <img height="500" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mugi68wp18m0knxwaf182sdk5" alt="Data Card for Spotify">
+    <img max-height="500" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mugi68wp18m0knxwaf182sdk5" alt="Data Card for Spotify">
   </a>
 </div>
 
