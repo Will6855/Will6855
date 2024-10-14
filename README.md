@@ -34,8 +34,8 @@
 
 <h2 align="center">Skills: </h2>
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,php,symfony,mysql" alt="Skills" /><br>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,dart,flutter,java" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,php,symfony" alt="Skills" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,python,flask,dart,flutter,java" alt="Skills" />
 </div>
 <!--<div align="center">  
   <img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
@@ -47,7 +47,6 @@
   <img height="40" src="https://skillicons.dev/icons?i=mysql" alt="Mysql" />
   <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img height="40" src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-  <img height="40" src="https://skillicons.dev/icons?i=django" alt="Django" />
   <img height="40" src="https://skillicons.dev/icons?i=dart" alt="Dart" />
   <img height="40" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   <img height="40" src="https://skillicons.dev/icons?i=java" alt="Java" />
