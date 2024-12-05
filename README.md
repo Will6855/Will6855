@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Guillaume (Will)
-<h3 align="center">✨ A passionate developer from France ✨</h3>
-
+<!-- HEADER -->
 <div align="center"> 
+  <img src="github-header-image.png">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=500&lines=%E2%9C%A8+A+passionate+developer+from+France+%E2%9C%A8" alt="A passionate developer from France" />
+  <br>
+  <!-- LINKEDIN -->
   <a href="https://linkedin.com/in/piard-guillaume" target="_blank" style="text-decoration: none">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
+  <!-- PORTFOLIO -->
   <a href="https://guillaume-piard.fr/" target="_blank">
     <img src=https://img.shields.io/badge/website-%23242938?style=for-the-badge&logo=About.me&logoColor=white />
   </a>
-</div>
-
-<div align="center"> 
+  <br>
+  <!-- PROFILE VIEWS -->
   <img src="https://komarev.com/ghpvc/?username=will6855&label=Profile%20views&color=0e75b6&style=flat" alt="will6855" /> 
 </div>
 
@@ -34,9 +36,33 @@
 
 <h2 align="center">Skills: </h2>
 <div align="center">  
+  <!--<h3>Languages</h3>-->
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
+  <br>
+
+  <!--<h3>Frameworks</h3>-->
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"/>
+  <br>
+
+  <!--<h3>Backend</h3>-->
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"/>
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/>
+  <br>
+
+  <!--<h3>Practices</h3>-->
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"/>
+  
   <!--<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,php,symfony" alt="Skills" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,python,flask,dart,flutter,java" alt="Skills" />-->
-  <img src="https://skillicons.dev/icons?i=php,symfony,python,flask,mysql,java" alt="Skills" /><br>
+  <!--<img src="https://skillicons.dev/icons?i=php,symfony,python,flask,mysql,java" alt="Skills" /><br>-->
 </div>
 <!--<div align="center">  
   <img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
@@ -55,13 +81,16 @@
 
 <h2 align="center">🎧 Music is the fuel that powers my coding! 🎧</h2>
 <div align="center"> 
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mugi68wp18m0knxwaf182sdk5">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mugi68wp18m0knxwaf182sdk5&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+  <!--<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mugi68wp18m0knxwaf182sdk5">
     <img max-height="500" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mugi68wp18m0knxwaf182sdk5" alt="Data Card for Spotify">
-  </a>
+  </a>-->
 </div>
 
 <h2 align="center">Stats: </h2>
 <div align="center"> 
+  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Will6855&theme=transparent&utcOffset=+2"/>
+  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Will6855&theme=transparent"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=dark&locale=en&layout=compact" /> 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=dark&locale=en" /> 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark" /> 
