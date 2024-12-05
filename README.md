@@ -35,8 +35,66 @@
 </div>-->
 
 <h2 align="center">Skills: </h2>
-<div align="center">  
-  <!--<h3>Languages</h3>-->
+<div align="center" style="margin-top: 20px;">
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+        <div style="flex: 1; min-width: 200px; text-align: center;">
+            <h4>Languages</h4>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
+        </div>
+        <div style="flex: 1; min-width: 200px; text-align: center;">
+            <h4>Frameworks & Tools</h4>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"/>
+        </div>
+    </div>
+</div>
+
+<!--<div align="center">
+    <table>
+        <tr>
+            <td>
+                <h4>Languages</h4>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
+            </td>
+            <td>
+                <h4>Backend</h4>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h4>Frameworks</h4>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"/>
+            </td>
+            <td>
+                <h4>Practices</h4>
+                <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"/>
+            </td>
+        </tr>
+    </table>
+</div>-->
+
+<!--<div align="center">  
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"/>
@@ -45,25 +103,22 @@
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
   <br>
 
-  <!--<h3>Frameworks</h3>-->
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"/>
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"/>
   <br>
 
-  <!--<h3>Backend</h3>-->
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"/>
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/>
   <br>
 
-  <!--<h3>Practices</h3>-->
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"/>
   
   <!--<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,php,symfony" alt="Skills" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,python,flask,dart,flutter,java" alt="Skills" />-->
   <!--<img src="https://skillicons.dev/icons?i=php,symfony,python,flask,mysql,java" alt="Skills" /><br>-->
-</div>
+<!--</div>-->
 <!--<div align="center">  
   <img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   <img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML" />
