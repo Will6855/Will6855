@@ -4,12 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=500&lines=%E2%9C%A8+A+passionate+developer+from+France+%E2%9C%A8" alt="A passionate developer from France" />
   <br>
   <!-- LINKEDIN -->
-  <a href="https://linkedin.com/in/piard-guillaume" target="_blank" style="text-decoration: none">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/piard-guillaume" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"/>
+    <!--<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />-->
+  </a>
+  <!-- MAIL -->
+  <a href="mailto:gpiard27@gmail.com" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg"/>
   </a>
   <!-- PORTFOLIO -->
   <a href="https://guillaume-piard.fr/" target="_blank">
-    <img src=https://img.shields.io/badge/website-%23242938?style=for-the-badge&logo=About.me&logoColor=white />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/>
+    <!--<img src=https://img.shields.io/badge/website-%23242938?style=for-the-badge&logo=About.me&logoColor=white />-->
   </a>
   <br>
   <!-- PROFILE VIEWS -->
@@ -146,7 +152,7 @@
 <div align="center"> 
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Will6855&theme=transparent&utcOffset=+2"/>
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Will6855&theme=transparent"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=dark&locale=en&layout=compact" /> 
+  <!--<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=dark&locale=en&layout=compact" /> -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=dark&locale=en" /> 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark" /> 
 </div>
