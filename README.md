@@ -17,9 +17,6 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/>
     <!--<img src=https://img.shields.io/badge/website-%23242938?style=for-the-badge&logo=About.me&logoColor=white />-->
   </a>
-  <br>
-  <!-- PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=will6855&label=Profile%20views&color=0e75b6&style=flat" alt="will6855" /> 
 </div>
 
 <!-- [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=will6855)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -156,3 +153,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=dark&locale=en" /> 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark" /> 
 </div>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=will6855&label=Profile%20views&color=0e75b6&style=flat" alt="will6855" /> 
