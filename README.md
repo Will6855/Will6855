@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center"> 
   <img src="github-header-image.png">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=500&lines=%E2%9C%A8+A+passionate+developer+from+France+%E2%9C%A8" alt="A passionate developer from France" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=500&lines=%E2%9C%A8+A+passionate+developer+from+France+%E2%9C%A8" alt="A passionate developer from France" />
   <br>
   <!-- LINKEDIN -->
   <a href="https://linkedin.com/in/piard-guillaume" target="_blank">
