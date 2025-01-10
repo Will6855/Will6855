@@ -53,7 +53,7 @@
             <h4>Frameworks & Tools</h4>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
-            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>
+            <!--<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>-->
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"/>
