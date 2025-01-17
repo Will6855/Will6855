@@ -6,7 +6,6 @@
   <!-- LINKEDIN -->
   <a href="https://linkedin.com/in/piard-guillaume" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"/>
-    <!--<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />-->
   </a>
   <!-- MAIL -->
   <a href="mailto:gpiard27@gmail.com" target="_blank">
@@ -15,26 +14,11 @@
   <!-- PORTFOLIO -->
   <a href="https://guillaume-piard.fr/" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/>
-    <!--<img src=https://img.shields.io/badge/website-%23242938?style=for-the-badge&logo=About.me&logoColor=white />-->
   </a>
 </div>
 
-<!-- [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=will6855)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!--<div align="center"> 
   <p>👨‍💻 All you need to know about me -> <a href="https://guillaume-piard.fr/">https://guillaume-piard.fr/</a></p>
-</div>-->
-
-<!--<div align="center"> 
-  <img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/343037113261883393">
-  <img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/343037113261883393">
-  <img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/343037113261883393">
-  <img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/343037113261883393">
-</div>-->
-
-<!--<div align="center"> 
-  <img src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>-->
 
 <h2 align="center">Skills: </h2>
@@ -98,30 +82,8 @@
 </div>-->
 
 <!--<div align="center">  
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
-  <br>
-
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"/>
-  <br>
-
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"/>
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/>
-  <br>
-
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"/>
-  
-  <!--<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,php,symfony" alt="Skills" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,python,flask,dart,flutter,java" alt="Skills" />-->
-  <!--<img src="https://skillicons.dev/icons?i=php,symfony,python,flask,mysql,java" alt="Skills" /><br>-->
-<!--</div>-->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,symfony,python,flask,mysql,java" alt="Skills" /><br>
+</div>-->
 <!--<div align="center">  
   <img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   <img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -149,9 +111,6 @@
 <div align="center"> 
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Will6855&theme=transparent&utcOffset=+2"/>
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Will6855&theme=transparent"/>
-  <!--<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=will6855&show_icons=true&theme=dark&locale=en&layout=compact" /> -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=will6855&show_icons=true&theme=dark&locale=en" /> 
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=will6855&theme=dark" /> 
 </div>
 
 <!-- PROFILE VIEWS -->
