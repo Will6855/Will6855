@@ -10,16 +10,16 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - name: Checkout Repository
-     - uses: actions/checkout@v3
+       uses: actions/checkout@v3
 
      - name: Update UTC Offset
-     - run: |
+       run: |
          current_date=$(date +%Y-%m-%d)
          offset=$(zdump -v Europe/Paris | grep "$current_date" | grep -q CEST && echo "+2" || echo "+1")
          sed -i "s/utcOffset=+[0-9]/utcOffset=$offset/" README.md
 
      - name: Commit Changes
-     - run: |
+       run: |
          git config user.email "action@github.com"
          git config user.name "GitHub Action"
          git add README.md
