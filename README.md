@@ -109,7 +109,7 @@
 
 <h2 align="center">Stats: </h2>
 <div align="center"> 
-  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Will6855&theme=transparent&utcOffset=+1"/>
+  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Will6855&theme=transparent&utcOffset=+2"/>
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Will6855&theme=transparent"/>
 </div>
 
