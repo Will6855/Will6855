@@ -1,0 +1,26 @@
+name: Update UTC Offset
+
+on:
+ schedule:
+   - cron: '0 0 * * *'
+ workflow_dispatch:
+
+jobs:
+ update-readme:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v3
+
+     - name: Update UTC Offset
+     - run: |
+         current_date=$(date +%Y-%m-%d)
+         offset=$(zdump -v Europe/Paris | grep "$current_date" | grep -q CEST && echo "+2" || echo "+1")
+         sed -i "s/utcOffset=+[0-9]/utcOffset=$offset/" README.md
+
+     - name: Commit Changes
+     - run: |
+         git config user.email "action@github.com"
+         git config user.name "GitHub Action"
+         git add README.md
+         git commit -m "Update UTCOffset to $offset" || exit 0
+         git push
