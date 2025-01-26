@@ -114,4 +114,7 @@
 </div>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=will6855&label=Profile%20views&color=0e75b6&style=flat" alt="will6855" /> 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=will6855&label=Views&color=000000" alt="will6855" /> 
+  <img src="https://badges.pufler.dev/visits/will6855/will6855?color=black&logo=github" />
+</div>
