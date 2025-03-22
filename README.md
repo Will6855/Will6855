@@ -29,6 +29,7 @@
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"/>
@@ -37,7 +38,8 @@
             <h4>Frameworks & Tools</h4>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/>
-            <!--<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>-->
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/>
+            <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/>
             <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"/>
