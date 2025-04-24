@@ -1,11 +1,8 @@
 <!-- HEADER -->
 <div align="center"> 
 
-  <!-- IMAGES -->
-  <div align="center"> 
-      <img max-height="250" src="github-header-part1.png">
-      <img max-height="250" src="github-header-part2.png">
-  </div>
+  <!-- IMAGE -->
+  <img src="github-header-image.png">
 
   <!-- LINKEDIN -->
   <a href="https://linkedin.com/in/piard-guillaume" target="_blank">
