@@ -3,8 +3,8 @@
 
   <!-- IMAGES -->
   <div align="center"> 
-      <img height="250" src="github-header-part1.png">
-      <img height="250" src="github-header-part2.png">
+      <img max-height="250" src="github-header-part1.png">
+      <img max-height="250" src="github-header-part2.png">
   </div>
 
   <!-- LINKEDIN -->
